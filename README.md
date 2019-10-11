@@ -1,4 +1,4 @@
-# Kethu: Indonesian Constituency Treebank
+# Kethu: Indonesian Constituency Treebank in the Penn Treebank format
 We revised an Indonesian Constituency Treebank created by [Dinakaramani at al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia and converted it to the Penn Treebank format, the standard in creating the constituency treebank.
 
 The explanation on how and why we convert the treebank can be read in our paper:
