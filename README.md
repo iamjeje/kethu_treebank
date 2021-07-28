@@ -1,4 +1,5 @@
 # Kethu: Indonesian Constituency Treebank in the Penn Treebank format
+_(**Terjemahan:** Kethu: Constituency Treebank Bahasa Indonesia Dalam Format Penn Treebank)_
 
 ## Introduction
 We revised an Indonesian Constituency Treebank created by [Dinakaramani at al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia and converted it to the Penn Treebank format, the standard in creating the constituency treebank.
@@ -7,8 +8,10 @@ We revised an Indonesian Constituency Treebank created by [Dinakaramani at al (2
 
 *We borrowed the name of [forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html), Kethu, as name of our treebank. We choose forest because treebank contains parse tree, as forest contains trees.*
 
+
 ## Changelog
 Any change we made can be seen in each folder of Kethu.
+
 
 ## Contributors
 * Ika Alfina and Jessica Naraiswari Arwidarasti
